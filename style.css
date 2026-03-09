@@ -196,6 +196,25 @@ span{
     justify-content: space-evenly;
     margin-top: 100px;
 }
+.dno{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    border-top: 1px solid lightgray;
+    box-sizing: border-box;
+    padding: 40px;
+   
+}
+.dno2{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.dno1{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
 
 
 

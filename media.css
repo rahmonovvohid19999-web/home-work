@@ -39,10 +39,12 @@
         
     }
     .all{
-        height: 300vh;
+        height: 200vh;
     }
     .row{
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
         
     }
     .fotolab{
@@ -53,6 +55,20 @@
     }
     .boxer3{
         height: 700px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        
+    }
+    
+    .ta{
+        display: none;
+    }
+    .dno{
+        height: 400px;
+        align-items: center;
+    }
+    .dno1{
+        margin-left: 40px;
     }
 }
 
