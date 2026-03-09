@@ -27,6 +27,12 @@
         width: 90%;
         margin-left: 20px;
     }
+    .jpg{
+        position: static;
+        width: 100%;
+        margin-top: 50px;
+    
+    }
 }
 
 
