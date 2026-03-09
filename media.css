@@ -17,5 +17,15 @@
         margin: 0;
         margin-top: 50px;
     }
+    .center{
+        flex-direction: column;
+        gap: 50px;
+    }
+    .photo3{
+        order: 1;
+        width: 90%;
+        margin-left: 20px;
+    }
 }
+
 
