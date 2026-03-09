@@ -45,6 +45,15 @@
         flex-direction: column;
         
     }
+    .fotolab{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+    }
+    .boxer3{
+        height: 700px;
+    }
 }
 
 

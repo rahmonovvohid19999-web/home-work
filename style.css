@@ -190,6 +190,12 @@ span{
     margin: 20px 0px;
     font-size: 40px;
 }
+.fotolab{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
 
 
 
