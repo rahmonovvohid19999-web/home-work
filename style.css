@@ -1,6 +1,9 @@
 * {
     margin: 0;
 }
+body{
+    background: linear-gradient(rgb(211, 206, 218),rgb(239, 230, 218));
+}
 .header {
     display: flex;
     justify-content: space-around;
@@ -21,4 +24,41 @@
     background-color: transparent;
     border: 2px solid rgba(85, 0, 136, 1);
     border-radius: 20px;
+}
+.icon{
+    display: none;
+}
+.sel{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.sel input{
+    width: 256px;
+    height: 42px;
+    box-sizing: border-box;
+    padding: 20px;
+    font-size: 20px;
+    outline: none;
+}
+.sel button{
+    background-color: rgba(85, 0, 136, 1);
+    color: white;
+    font-size: 15px;
+    width: 150px;
+}
+.text h1{
+    font-size: 150px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.text p{
+    font-size: 40px;
+    text-align: center;
+}
+.photo{
+    margin-left: 200px;
+    margin-top: 50px;
 }

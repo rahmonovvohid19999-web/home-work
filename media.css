@@ -1,0 +1,21 @@
+@media(max-width:650px){
+    .icon{
+        display: block;
+    }
+    .box1, .box{
+        display: none;
+    }
+    .header{
+        background-color: gray;
+        justify-content: space-between;
+    }
+    .text h1{
+        font-size: 70px;
+    }
+    .photo{
+        width: 100%;
+        margin: 0;
+        margin-top: 50px;
+    }
+}
+
