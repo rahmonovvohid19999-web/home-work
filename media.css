@@ -20,6 +20,7 @@
     .center{
         flex-direction: column;
         gap: 50px;
+        
     }
     .photo3{
         order: 1;
