@@ -33,6 +33,15 @@
         margin-top: 50px;
     
     }
+    .cont{
+        flex-wrap: wrap;
+        gap: 50px;
+        
+    }
+    .all{
+        height: 300vh;
+    }
 }
+
 
 
