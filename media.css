@@ -41,6 +41,10 @@
     .all{
         height: 300vh;
     }
+    .row{
+        flex-direction: column;
+        
+    }
 }
 
 
